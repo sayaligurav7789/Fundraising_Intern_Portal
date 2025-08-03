@@ -205,14 +205,3 @@ Feel free to open issues or submit pull requests for suggestions or improvements
 ---
 
 ```
-
----
-
-Let me know if you'd like help:
-- Adding the actual Firebase config placeholders
-- Writing a `CONTRIBUTING.md`
-- Generating screenshot mockups
-- Creating a `vercel.json` or `netlify.toml` for deployment
-
-You're nearly done — just polish and publish! ✅
-```
